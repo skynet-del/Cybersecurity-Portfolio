@@ -9,7 +9,7 @@ I am an emerging cybersecurity professional with a strong commitment to continuo
 
 ## 📄 Compliance & Audit Work
 
-- [Controls and Compliance Checklist – Botium Toys](compliance-checklists/BotiumToys_Controls_Compliance_Checklist.pdf)
+- [Controls and Compliance Checklist – Botium Toys](compliance-checklists_BotiumToys_Controls_Compliance_Checklist.pdf)
 
 ## 📂 Coming Soon
 
