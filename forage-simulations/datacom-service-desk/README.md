@@ -42,16 +42,16 @@ This simulation helped me understand how service desk teams support business con
 * IT Support
 * Service Desk
 * ITIL
+* Incident Management
+* Ticket Prioritization
+* Troubleshooting
+* Escalation
+* User Communication
 
-## Related Submission Evidence
+ ## Related Submission Evidence
 
 - [GreenScape Email Response](../../submission-evidence/01-greenscape-email-access/greenscape-email-response.pdf)
 - [GreenScape Incident Report](../../submission-evidence/01-greenscape-email-access/greenscape-incident-report.pdf)
 - [Ticket Prioritization Plan](../../submission-evidence/01-greenscape-email-access/ticket-prioritization-plan.pdf)
 - [Network Outage Follow-Up Email](../../submission-evidence/01-greenscape-email-access/network-outage-follow-up-email.pdf)
 - [Real-World Incident Report Template](../../submission-evidence/01-greenscape-email-access/real-world-incident-report-template.pdf)
-* Incident Management
-* Ticket Prioritization
-* Troubleshooting
-* Escalation
-* User Communication
