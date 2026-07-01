@@ -45,3 +45,12 @@ This simulation helped me understand how cybersecurity teams review vulnerabilit
 * Python Basics
 * Ethical Hacking Concepts
 * Technical Communication
+
+## Related Submission Evidence
+
+- [CISA Log4Shell Summary](../../submission-evidence/02-cyber-advisories-and-response/cisa-aa21-356a-log4shell-summary.pdf)
+- [AIG Log4Shell Security Advisory Email](../../submission-evidence/02-cyber-advisories-and-response/aig-log4shell-security-advisory-email.pdf)
+- [CISA Ransomware Trends Summary](../../submission-evidence/02-cyber-advisories-and-response/cisa-ransomware-trends-2021-summary.pdf)
+- [Bruteforce Python Script](../../submission-evidence/03-bruteforce-python/bruteforce-solution.py)
+- [Bruteforce Solution PDF](../../submission-evidence/03-bruteforce-python/bruteforce-solution.pdf)
+- [Decrypted File Simulation Output](../../submission-evidence/03-bruteforce-python/aig-decrypted-file-simulation-output.docx)
