@@ -43,3 +43,10 @@ This simulation helped me understand how cybersecurity teams investigate inciden
 - Client Communication
 - Documentation
 - Security Posture Improvement
+
+## Related Submission Evidence
+
+- [GreenScape Incident Report](../../submission-evidence/01-greenscape-email-access/greenscape-incident-report.pdf)
+- [Ticket Prioritization Plan](../../submission-evidence/01-greenscape-email-access/ticket-prioritization-plan.pdf)
+- [Phishing and Possible Ransomware Incident Response](../../submission-evidence/02-cyber-advisories-and-response/phishing-ransomware-incident-response.pdf)
+- [CISA Ransomware Trends Summary](../../submission-evidence/02-cyber-advisories-and-response/cisa-ransomware-trends-2021-summary.pdf)
